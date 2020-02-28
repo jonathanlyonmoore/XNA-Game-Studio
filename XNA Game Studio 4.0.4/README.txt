@@ -4,3 +4,6 @@ Before install extension:
 3. Install XNA Game Studio 4.0 Platform Tools
 4. Install XNA Game Studio 4.0 Shared
 5. Install XNA Game Studio 4.0.vsix
+
+
+Works with Visual Studio 2013 any version even Desktop Express.
